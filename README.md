@@ -5,7 +5,6 @@ Welcome to my github!
 
 Here you can find some repositories created to study at home to improve my programming skills.
 
-* 👩‍💻 I'm a Software Engineer, currently studying at [Cubos Academy](https://cubos.academy).
 * 🤓 I love learning in general, but specially new skills
 * 🌐 I speak portuguese 🇧🇷, english 🇬🇧 and italian 🇮🇹
 * 🎮 Videogame and ⛩️Japan enthusiast 
